@@ -44,114 +44,157 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1080606947">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="JAVA/Composite" value="1" />
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+          <entry key="UML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="7" />
+          <entry key="java" value="1574" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1574" />
+          <entry key="PLAIN_TEXT" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/Composite/Client_PlayerManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="220">
+              <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/InterfaceState.java">
+        <entry file="file://$PROJECT_DIR$/src/Composite/Composite_Team.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/Context_CafeMachine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="442">
+              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
               <folding>
-                <element signature="e#1179#1180#0" expanded="true" />
-                <element signature="e#1215#1216#0" expanded="true" />
-                <element signature="e#1284#1285#0" expanded="true" />
-                <element signature="e#1326#1327#0" expanded="true" />
-                <element signature="e#1343#1344#0" expanded="true" />
-                <element signature="e#1370#1371#0" expanded="true" />
-                <element signature="e#1414#1415#0" expanded="true" />
-                <element signature="e#1446#1447#0" expanded="true" />
-                <element signature="e#1491#1492#0" expanded="true" />
-                <element signature="e#1524#1525#0" expanded="true" />
-                <element signature="e#1572#1573#0" expanded="true" />
-                <element signature="e#1608#1609#0" expanded="true" />
-                <element signature="e#1656#1657#0" expanded="true" />
-                <element signature="e#1692#1693#0" expanded="true" />
+                <element signature="e#199#232#0" expanded="true" />
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_UserChose.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="27" column="89" selection-start-line="27" selection-start-column="89" selection-end-line="27" selection-end-column="89" />
-              <folding>
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#243#244#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_Off.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
-              <folding>
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#231#232#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_ServiceNeeded.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_Idle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="43" column="45" lean-forward="true" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
-              <folding>
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_InsertingCoin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_MakeCaffee.java">
+        <entry file="uml://JAVA/Composite">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>Composite</OriginalElement>
+              <nodes>
+                <node x="0.0" y="533.0">Composite.Client_PlayerManager</node>
+                <node x="162.0" y="0.0">Composite.AbstractComponent_PlayerElement</node>
+                <node x="0.0" y="257.0">Composite.Composite_Team</node>
+                <node x="383.0" y="279.0">Composite.Leaf_Player</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="Composite.Composite_Team" target="Composite.AbstractComponent_PlayerElement">
+                  <point x="0.0" y="-115.5" />
+                  <point x="181.5" y="232.0" />
+                  <point x="244.25" y="232.0" />
+                  <point x="-82.25" y="103.5" />
+                </edge>
+                <edge source="Composite.Leaf_Player" target="Composite.AbstractComponent_PlayerElement">
+                  <point x="0.0" y="-93.5" />
+                  <point x="471.5" y="232.0" />
+                  <point x="408.75" y="232.0" />
+                  <point x="82.25" y="103.5" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="1.0" x="134.0" y="265.0" />
+              <SelectedNodes />
+              <Categories>
+                <Category>Properties</Category>
+                <Category>Methods</Category>
+                <Category>Inner Classes</Category>
+                <Category>Constructors</Category>
+                <Category>Fields</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Composite/Leaf_Player.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+            <state relative-caret-position="170">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#519#520#0" expanded="true" />
+                <element signature="e#576#577#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Composite/AbstractComponent_PlayerElement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="5" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="e#417#418#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#675#676#0" expanded="true" />
+                <element signature="e#732#733#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+                <element signature="e#814#815#0" expanded="true" />
+                <element signature="e#854#855#0" expanded="true" />
+                <element signature="e#911#912#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/Client_Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -213,6 +256,12 @@
         <option value="$PROJECT_DIR$/src/State/ConcreteState_UserChose.java" />
         <option value="$PROJECT_DIR$/src/State/Context_CafeMachine.java" />
         <option value="$PROJECT_DIR$/src/State/ConcreteState_MakeCaffee.java" />
+        <option value="$PROJECT_DIR$/src/Composite/AbstractComponent_PlayersAbs.java" />
+        <option value="$PROJECT_DIR$/src/Composite/Client_Player.java" />
+        <option value="$PROJECT_DIR$/src/Composite/AbstractComponent_PlayerElement.java" />
+        <option value="$PROJECT_DIR$/src/Composite/Client_PlayerManager.java" />
+        <option value="$PROJECT_DIR$/src/Composite/Leaf_Player.java" />
+        <option value="$PROJECT_DIR$/src/Composite/Composite_Team.java" />
       </list>
     </option>
   </component>
@@ -222,10 +271,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="132" />
+    <option name="y" value="271" />
+    <option name="width" value="1394" />
     <option name="height" value="1096" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -269,21 +318,21 @@
               <item name="DesignPatternPA" type="b2602c69:ProjectViewProjectNode" />
               <item name="DesignPatternPA" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="State" type="462c0819:PsiDirectoryNode" />
+              <item name="Composite" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543354856325" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Google Drive/04 Formation/Hevs_60X_3 - Cours/S5/634-1 Patterns/11 State/lab11-state-ex2-solution/src" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543414906715" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="Errors" />
@@ -305,7 +354,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Client_PlayerManager">
     <configuration name="Client_Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Builder.Client_Main" />
       <module name="DesignPatternPA" />
@@ -345,6 +394,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Client_PlayerManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Composite.Client_PlayerManager" />
+      <module name="DesignPatternPA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Composite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="State.Main" />
       <module name="DesignPatternPA" />
@@ -359,12 +421,15 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Client_Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Client_Main (1)" />
       <item itemvalue="Application.Client_Main (2)" />
+      <item itemvalue="Application.Client_PlayerManager" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client_PlayerManager" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Client_Main (2)" />
         <item itemvalue="Application.Client_Main (1)" />
@@ -383,11 +448,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543340514533</updated>
       <workItem from="1543340520541" duration="14339000" />
+      <workItem from="1543412071582" duration="2827000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14339000" />
+    <option name="totallyTimeSpent" value="17166000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -399,36 +465,37 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="132" y="271" width="1394" height="1096" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14285715" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27061468" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32952183" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43139294" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36240914" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952183" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32952183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -482,7 +549,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="145.5" y="146.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="146.0" y="146.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -642,7 +709,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-463.5" y="183.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-463.0" y="183.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -674,13 +741,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="141" selection-start-line="15" selection-start-column="141" selection-end-line="15" selection-end-column="141" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/Client_Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="93" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="10" selection-end-column="93" />
         </state>
       </provider>
     </entry>
@@ -719,7 +779,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="594.5" y="91.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="595.0" y="91.0" />
           <SelectedNodes />
           <Categories>
             <Category>Fields</Category>
@@ -747,6 +807,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/State/Context_CafeMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_UserChose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="27" column="89" selection-start-line="27" selection-start-column="89" selection-end-line="27" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_Off.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_ServiceNeeded.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_Idle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="43" column="45" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_InsertingCoin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_MakeCaffee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/State/InterfaceState.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -754,80 +863,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_InsertingCoin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_Off.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" column="55" lean-forward="true" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
-          <folding>
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#231#232#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_ServiceNeeded.java">
+    <entry file="file://$PROJECT_DIR$/src/ChainOfResponsibility/Client_Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <caret line="11" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_Idle.java">
+    <entry file="file://$PROJECT_DIR$/src/Composite/AbstractComponent_PlayerElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="43" column="45" lean-forward="true" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+        <state relative-caret-position="493">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="27" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
           <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#675#676#0" expanded="true" />
+            <element signature="e#732#733#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+            <element signature="e#854#855#0" expanded="true" />
+            <element signature="e#911#912#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_UserChose.java">
+    <entry file="file://$PROJECT_DIR$/src/Composite/Leaf_Player.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="27" column="89" selection-start-line="27" selection-start-column="89" selection-end-line="27" selection-end-column="89" />
+        <state relative-caret-position="170">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="25" />
           <folding>
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#519#520#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/Context_CafeMachine.java">
+    <entry file="file://$PROJECT_DIR$/src/Composite/Client_PlayerManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="220">
+          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Composite/Composite_Team.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
           <folding>
-            <element signature="e#1179#1180#0" expanded="true" />
-            <element signature="e#1215#1216#0" expanded="true" />
-            <element signature="e#1284#1285#0" expanded="true" />
-            <element signature="e#1326#1327#0" expanded="true" />
-            <element signature="e#1343#1344#0" expanded="true" />
-            <element signature="e#1370#1371#0" expanded="true" />
-            <element signature="e#1414#1415#0" expanded="true" />
-            <element signature="e#1446#1447#0" expanded="true" />
-            <element signature="e#1491#1492#0" expanded="true" />
-            <element signature="e#1524#1525#0" expanded="true" />
-            <element signature="e#1572#1573#0" expanded="true" />
-            <element signature="e#1608#1609#0" expanded="true" />
-            <element signature="e#1656#1657#0" expanded="true" />
-            <element signature="e#1692#1693#0" expanded="true" />
+            <element signature="e#199#232#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/State/ConcreteState_MakeCaffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="32" column="52" selection-start-line="32" selection-start-column="52" selection-end-line="32" selection-end-column="52" />
+    <entry file="uml://JAVA/Composite">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Composite</OriginalElement>
+          <nodes>
+            <node x="0.0" y="533.0">Composite.Client_PlayerManager</node>
+            <node x="162.0" y="0.0">Composite.AbstractComponent_PlayerElement</node>
+            <node x="0.0" y="257.0">Composite.Composite_Team</node>
+            <node x="383.0" y="279.0">Composite.Leaf_Player</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Composite.Composite_Team" target="Composite.AbstractComponent_PlayerElement">
+              <point x="0.0" y="-115.5" />
+              <point x="181.5" y="232.0" />
+              <point x="244.25" y="232.0" />
+              <point x="-82.25" y="103.5" />
+            </edge>
+            <edge source="Composite.Leaf_Player" target="Composite.AbstractComponent_PlayerElement">
+              <point x="0.0" y="-93.5" />
+              <point x="471.5" y="232.0" />
+              <point x="408.75" y="232.0" />
+              <point x="82.25" y="103.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="134.0" y="265.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Properties</Category>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+            <Category>Constructors</Category>
+            <Category>Fields</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
