@@ -7,11 +7,9 @@ public class Client_PlayerManager {
         // qui implémentent la même interface
         //
         // Client: transmet un action à l'arbre d'objet
-        // AbstractComponent : classe abstraite qui contient la definition des operations possibles
-        // avec par default des erreurs
+        // AbstractComponent : classe abstraite ou interface qui contient la definition des operations possibles
         // Composite : contient les éléments et définit le comportement par groupe
         // Leaf : définit le comportement pour l'élément
-
 
         Composite_Team FCSion = new Composite_Team("FC Sion");
         Composite_Team U20 = new Composite_Team("U20");
